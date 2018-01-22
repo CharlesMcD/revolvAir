@@ -1,0 +1,2 @@
+Ce fichier ne sert qu'a inclure le dossier components sur git.
+Les components devraient se retrouve dans ce dossier.
