@@ -1,6 +1,17 @@
 # RevolvAir
 
-### Prerequisites
+## Prerequisites
+
+### Avertissement
+
+Le projet a été testé et est fonctionnel sur iOS 11.2.1 avec macOS 10.13.2.
+Il est possible de devoir ajouter certains réglages sur Windows et Android pour que le code compile.
+[Android studio](https://developer.android.com/studio/index.html) est requis pour lancer le projet sur Android.
+
+
+
+La librairie [react-native-maps](https://github.com/react-community/react-native-maps) requiert une clé API Google maps lorsqu'utilisé sur Android puisque c'est l'unique option disponible pour afficher une carte.
+Sur iOS, la carte utilisé par défaut est celle de l'application "Plan" qui ne nécessite pas de clé. Voir la doc de la librairie pour plus d'info! 
 
 Requis pour travailler sans EXPO (Ce que nous faisons ici)
 
@@ -8,20 +19,22 @@ Requis pour travailler sans EXPO (Ce que nous faisons ici)
 npm install -g react-native-cli
 ```
 
-### Installing
+## Installing
 
 ```
 npm install
 ```
 
-Seulement pour iOS
+### Seulement pour iOS
+
+https://cocoapods.org/
 
 ```
 sudo gem install cocoapods
 ```
 
-Aller dans le fichier ./ios
-À partir de ce moment, uniquement ouvrir le projet avec .xcworkspace et non pas .xcodeproj 
+Puis ller dans le fichier ./ios
+À partir de ce moment, uniquement ouvrir le projet avec .xcworkspace et non pas .xcodeproj
 
 ```
 pod install
