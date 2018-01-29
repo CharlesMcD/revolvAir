@@ -72,7 +72,7 @@ https://github.com/react-native-community/react-native-svg
 
 * Cours rapides pour comprendre le principe de redux donnés par le créateur lui-même : https://egghead.io/courses/getting-started-with-redux
 
-* Cours un peu plus longs sûr lequel je me suis basé pour monter l’architecture de l’application : 
+* Cours un peu plus longs qui explique l’architecture de l’application (PLUS IMPORTANT) : 
 https://www.youtube.com/watch?v=3msLwu25SQY&list=PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5
 
 * Testing : Jest pour tests unitaires.
