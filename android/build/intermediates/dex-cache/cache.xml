@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_ed821c3343a3c366a63370abd806c3b3bf40e788.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_29c541d65e46626f7352af3d15574df93e4df915.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/exploded-aar/syntheseRevolvAir/react-native-svg/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="376f3d31ad37760fe672a1373490425563e577b7">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/syntheseRevolvAir-react-native-svg-unspecified_8272858bcd51e37c0260fe2d530366808a6d7a98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_c0557b991731175fb2c74eefe6a7c4dc8746e5f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_90061bf9589f541673e0b0b6596325e7e3024896.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_10a43681b3d866625f6b36caf03e42d95027682f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_fe2304e9de69c327179d4b405f58eec4c2e2822c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_b9b5fcb2ce951a1c1080517783a1f21e351163ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_522d3fc4eabe99f6116f758925c48c40f1c5a9cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_1eb8e4cc121d66fbab8cf04f554783411b7a19db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_2fb1191ef70c97215f67d8bf67a40323a2a72168.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_9fc13bd5f9e60d9b32ce800f78a9a7c807569e7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_6ddc4d8bbbf7cc839b99667f7abcda82588fe568.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_e047b0cc16de446c90b7d0096fbc9455a2a97d81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_c7c3e811c66644e3b72faf54ae81b0f469308771.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_176cb65124431929484b8b11b72460fd5a6fda66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_609e3d088c71c39cdeee9e9d3585dee2a6c7e482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/exploded-aar/syntheseRevolvAir/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="02dfc6c0495c86f2956d32328307a198978e16dd">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/syntheseRevolvAir-react-native-maps-unspecified_92a43698e843463f5df9683a80ddc033a7e879d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_7d10db8e8ce901c1535f37a715cc628fa134677a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_e12c646eae39ba9952837b4906d1e22a51b91d0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_96d8f23be72dcf5cd5af3d1a51bd5111f0b0ad28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_f80706d5caec5bf09f54c059b0fc952f2771a617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_beb5a1c010602ae6011183289fe84110906f6008.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_03e085dc5fd2caf12715aaf4a57ef6433aa1e053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.3_c4f00817eeb5cf963d200c8ee747510b062ee3d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.0.1_36f22273dce935d735f33e2bf53261adab240227.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/charlesmacduff/Git/syntheseRevolvAir/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_bb39c50128dc0df5a0e1169a0c21cdd39464c2b1.jar" />
+    </item>
+
+</items>
